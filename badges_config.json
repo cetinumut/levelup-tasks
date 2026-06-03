@@ -1,0 +1,106 @@
+[
+  {
+    "id": "first_steps",
+    "name": "First Steps",
+    "description": "Complete your first task.",
+    "type": "tasks_completed",
+    "target": 1,
+    "rarity": "common",
+    "category": "progress",
+    "emoji": "🔵"
+  },
+  {
+    "id": "task_rookie_5",
+    "name": "Task Rookie",
+    "description": "Complete 5 tasks.",
+    "type": "tasks_completed",
+    "target": 5,
+    "rarity": "common",
+    "category": "progress",
+    "emoji": "🟢"
+  },
+  {
+    "id": "task_regular_20",
+    "name": "Task Regular",
+    "description": "Complete 20 tasks.",
+    "type": "tasks_completed",
+    "target": 20,
+    "rarity": "epic",
+    "category": "progress",
+    "emoji": "\uD83D\uDFE1"
+  },
+  {
+    "id": "daily_starter",
+    "name": "Daily Starter",
+    "description": "Complete 3 daily tasks.",
+    "type": "complete_type",
+    "task_type": "daily",
+    "target": 3,
+    "rarity": "rare",
+    "category": "progress",
+    "emoji": "\uD83D\uDFE0"
+  },
+  {
+    "id": "weekly_warrior",
+    "name": "Weekly Warrior",
+    "description": "Complete 3 weekly tasks.",
+    "type": "complete_type",
+    "task_type": "weekly",
+    "target": 3,
+    "rarity": "rare",
+    "category": "progress",
+    "emoji": "\uD83D\uDD34"
+  },
+  {
+    "id": "monthly_momentum",
+    "name": "Monthly Momentum",
+    "description": "Complete 2 monthly tasks.",
+    "type": "complete_type",
+    "task_type": "monthly",
+    "target": 2,
+    "rarity": "rare",
+    "category": "progress",
+    "emoji": "\uD83D\uDFE3"
+  },
+  {
+    "id": "epic_start",
+    "name": "Epic Start",
+    "description": "Complete your first epic task.",
+    "type": "complete_type",
+    "task_type": "epic",
+    "target": 1,
+    "rarity": "epic",
+    "category": "progress",
+    "emoji": "⭕"
+  },
+  {
+    "id": "streak_3",
+    "name": "On a Roll",
+    "description": "Reach a streak of 3 on a recurring task.",
+    "type": "any_task_streak",
+    "target": 3,
+    "rarity": "rare",
+    "category": "streak",
+    "emoji": "⚪"
+  },
+  {
+    "id": "streak_5_any",
+    "name": "Streak Master",
+    "description": "Have any recurring task reach streak 5.",
+    "type": "any_task_streak",
+    "target": 5,
+    "rarity": "epic",
+    "category": "streak",
+    "emoji": "⚫"
+  },
+  {
+    "id": "big_xp_200",
+    "name": "Big XP",
+    "description": "Earn 200+ XP from a single task completion.",
+    "type": "xp_single",
+    "target": 200,
+    "rarity": "epic",
+    "category": "progress",
+    "emoji": "\uD83D\uDFE4"
+  }
+]

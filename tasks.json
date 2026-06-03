@@ -1,0 +1,47 @@
+[
+    {
+        "id": 3,
+        "title": "koşu",
+        "description": "3km koş",
+        "category": "spor",
+        "priority": "high",
+        "difficulty": 3,
+        "task_type": "weekly",
+        "status": true,
+        "created_at": null,
+        "due_date": null,
+        "streak": 1,
+        "completed_at": "2026-01-20T16:46:12.281378",
+        "best_streak": 1
+    },
+    {
+        "id": 4,
+        "title": "ingilizce",
+        "description": "dil öğren",
+        "category": "eğitim",
+        "priority": "high",
+        "difficulty": 3,
+        "task_type": "epic",
+        "status": false,
+        "created_at": null,
+        "due_date": null,
+        "streak": 0,
+        "completed_at": null,
+        "best_streak": 0
+    },
+    {
+        "id": 5,
+        "title": "cinema",
+        "description": "cinema",
+        "category": "eğlence",
+        "priority": "low",
+        "difficulty": 2,
+        "task_type": "monthly",
+        "status": false,
+        "created_at": null,
+        "due_date": null,
+        "streak": 3,
+        "completed_at": "2026-03-15T10:00:00",
+        "best_streak": 3
+    }
+]
