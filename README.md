@@ -188,10 +188,11 @@ The database is initialized through migration logic. Indexes and unique constrai
 
 ## How to Run
 
-1. Open the project folder in terminal:
+1. Clone the repository and open the project folder:
 
 ```bash
-cd "C:\Users\Umut Cetin\Desktop\Python Projeler\LevelUp Tasks"
+git clone https://github.com/cetinumut/levelup-tasks.git
+cd levelup-tasks
 ```
 
 2. Activate virtual environment:
