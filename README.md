@@ -68,13 +68,16 @@ It was designed as a personal productivity tool and also as a portfolio project 
 
 ## Tech Stack
 
-- Python
+**Languages & Libraries**
+- Python 3.10+
 - Tkinter
-- SQLite
+- SQLite / `sqlite3`
+- JSON configuration
+
+**Architecture & Patterns**
 - Object-Oriented Programming
 - Repository Pattern
 - Service Layer Architecture
-- JSON configuration
 - SQL migrations
 
 ---
@@ -101,7 +104,6 @@ LevelUp Tasks/
 │   │   ├── badges_screen.py
 │   │   ├── history_screen.py
 │   │   └── stats_screen.py
-│   └── dialogs/
 │
 ├── services/
 │   └── app_service.py
@@ -195,6 +197,8 @@ git clone https://github.com/cetinumut/levelup-tasks.git
 cd levelup-tasks
 ```
 
+> Requires **Python 3.10+**
+
 2. Activate virtual environment:
 
 ```powershell
@@ -217,4 +221,4 @@ LevelUp Tasks is a Python-based gamified productivity application that combines 
 
 ## License
 
-This project is for personal learning and portfolio purposes.
+No license. This project is for personal and portfolio use only.
